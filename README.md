@@ -19,4 +19,5 @@ This repository contains a curated IPTV playlist (`iptv.m3u`) that allows you to
 
 ## License
 
-This project is open for personal use. Please do not redistribute without permission.
+This playlist is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+You are free to use and modify the playlist for personal and non-commercial purposes, with proper attribution.
