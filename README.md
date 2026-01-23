@@ -8,7 +8,7 @@ This repository contains a curated IPTV playlist (`iptv.m3u`) that allows you to
 
 ## Usage
 
-1. Download the `iptv.m3u` file.
+1. Download the `iptv.m3u` file directly from [here](https://raw.githubusercontent.com/denxvofficial/IPTV/refs/heads/main/iptv.m3u).
 2. Open it with your preferred IPTV player.
 3. Enjoy live TV channels!
 
