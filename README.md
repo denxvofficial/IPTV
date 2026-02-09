@@ -1,23 +1,47 @@
 # IPTV
 
-IPTV playlist with live TV channels in M3U format.
+An IPTV playlist with live TV channels in M3U format.
 
-## Overview
+## Description
 
-This repository contains a curated IPTV playlist (`iptv.m3u`) that allows you to stream live TV channels. You can use it with any IPTV-compatible player, such as VLC, Kodi, or Smart TVs.
+This repository contains IPTV playlists that can be used to watch live television with any player that supports the M3U format — such as VLC, Kodi, IPTV apps on Smart TVs, and similar players.
+
+The playlists mainly include **Russian-language TV channels** and are updated periodically. They are organized to make it easy to choose between a full channel list and a curated version without unnecessary clutter.
+
+## Playlists
+
+Two playlists are available:
+
+- **`iptv.m3u`** — full playlist with all available channels.
+
+- **`iptv-top.m3u`** — curated playlist with selected popular channels, filtered from `iptv.m3u`.
 
 ## Usage
 
-1. Download the `iptv.m3u` file directly from [here](https://raw.githubusercontent.com/denxvofficial/IPTV/refs/heads/main/iptv.m3u).
-2. Open it with your preferred IPTV player.
-3. Enjoy live TV channels!
+Choose the playlist that suits your needs:
+
+- Full playlist:
+  ```
+  https://raw.githubusercontent.com/denxvofficial/IPTV/refs/heads/main/iptv.m3u
+  ```
+
+- Curated playlist:
+  ```
+  https://raw.githubusercontent.com/denxvofficial/IPTV/refs/heads/main/iptv-top.m3u
+  ```
+
+Open the selected file in any IPTV-compatible player that supports the M3U format (e.g. VLC, Kodi, Smart TV applications, etc.).
 
 ## Notes
 
-- The playlist may be updated periodically.
-- Make sure your IPTV player supports M3U format.
+- The playlists may be updated and extended over time.
+
+- Channel availability depends on the sources and your internet connection.
+
+- For stable playback, it is recommended to use up-to-date IPTV players.
 
 ## License
 
-This playlist is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
-You are free to use and modify the playlist for personal and non-commercial purposes, with proper attribution.
+These playlists are licensed under [Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to use and modify the playlists for personal and non-commercial purposes, provided that proper attribution is given.
