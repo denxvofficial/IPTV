@@ -108,6 +108,8 @@ http://gvhdir471.russtv.net/iptv/9LSXWDRM53VXM4/7000/index.m3u8
 #EXTINF:-1 tvg-id="1plus1-int" tvg-logo="https://iptvx.one/picons/1plus1-int.png",1+1 International
 http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/18078/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/1plus1-int.png" tvg-id="1plus1-int",1+1 International
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/1plus1-int.png" tvg-id="1plus1-int",1+1 International
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/1plus1-int.png" tvg-id="1plus1-int",1+1 International
 http://ott.watch/stream/6HAPZWKKG3/105.m3u8
@@ -123,6 +125,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N8HKZ3DNUQKK2D/7000/inde
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/18078/index.m3u8
 #EXTINF:-1 tvg-id="1plus1-int" tvg-logo="https://iptvx.one/picons/1plus1-int.png",1+1 International
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/7000/index.m3u8
+#EXTINF:-1 tvg-id="1plus1-int" tvg-logo="https://iptvx.one/picons/1plus1-int.png",1+1 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="1plus1-int" tvg-logo="https://iptvx.one/picons/1plus1-int.png",1+1 International
 https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="1plus1-ukraina" tvg-logo="https://iptvx.one/picons/1plus1-ukraina.png",1+1 Україна
@@ -422,8 +426,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
 #EXTINF:-1 tvg-id="2na2-pl2" tvg-logo="https://iptvx.one/picons/2na2-pl2.png",2x2 (+2)
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="2na2-pl4" tvg-logo="https://iptvx.one/picons/2na2-pl4.png",2x2 (+4)
-http://api.peers.tv/timeshift/2x2tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzg1Njg3MjUsImlhdCI6MTc3ODQ4MjMyNSwiY2lkIjo2LCJ1aWQiOjEwNDI2NDkwMjUsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.MCejoHxe8smW-bCJF45HDPXMc1wtCG6rj8Hs64OyJYM&offset=10
 #EXTINF:-1 tvg-id="2na2-pl4" tvg-logo="https://iptvx.one/picons/2na2-pl4.png",2x2 (+4)
 http://dmi3y-tv6.ru/hls/zabava/CH_2X2_4.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/2na2-pl4.png" tvg-id="2na2-pl4",2x2 (+4)
@@ -635,8 +637,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AL7HMF5UYW4MGV/31625/ind
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/31625/index.m3u8
 #EXTINF:-1 tvg-id="cineman-svaty" tvg-logo="https://iptvx.one/picons/cineman-svaty.png",CineMan Сваты
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11014/index.m3u8
-#EXTINF:-1 tvg-id="cineman-svaty" tvg-logo="https://iptvx.one/picons/cineman-svaty.png",CineMan Сваты
-http://178.63.98.119:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="cineman-svaty" tvg-logo="https://iptvx.one/picons/cineman-svaty.png",CineMan Сваты
 http://30f247f9.edmonst.net/iptv/FTXT5WEPVSHHWZ/11014/index.m3u8
 #EXTINF:-1 tvg-id="cineman-svaty" tvg-logo="https://iptvx.one/picons/cineman-svaty.png",CineMan Сваты
@@ -879,8 +879,6 @@ http://tmptv.sunduk.tv/CH729/index.m3u8
 http://s91412.cdn.ngenix.net/mdrm/CH_STS_2/variant.m3u8
 #EXTINF:-1,STS+4
 http://s91412.cdn.ngenix.net/mdrm/CH_STS_4/variant.m3u8
-#EXTINF:-1 tvg-id="tnt-comedy-de" tvg-logo="https://iptvx.one/picons/tnt-comedy-de.png",TNT Comedy
-https://hls-01-gpm.hostingradio.ru/comedyradio86146/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tnt-comedy-de.png" tvg-id="tnt-comedy-de",TNT Comedy
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="veles-sssr" tvg-logo="https://iptvx.one/picons/veles-sssr.png",VeleS СССР
@@ -1125,8 +1123,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AL7HMF5UYW4MGV/10085/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N8HKZ3DNUQKK2D/10085/index.m3u8
 #EXTINF:-1 tvg-id="vf-filmy-sssr" tvg-logo="https://iptvx.one/picons/vf-filmy-sssr.png",VF Фильмы СССР
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/10085/index.m3u8
-#EXTINF:-1,Авторадио. Дискотека СССР
-http://101s1.rafail1982.uz/stream/pro/aac/64/144
 #EXTINF:-1 tvg-id="gosfilmofond-mv" tvg-logo="https://iptvx.one/picons/gosfilmofond-mv.png",Госфильмофонд. Машина времени
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31929/index.m3u8
 #EXTINF:-1 tvg-id="gosfilmofond-mv" tvg-logo="https://iptvx.one/picons/gosfilmofond-mv.png",Госфильмофонд. Машина времени
@@ -1191,10 +1187,6 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/154/index.m3u8
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/9136/index.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png",Дом кино
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/154/index.m3u8
-#EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png",Дом кино
-http://95.181.17.18/dvr01/sd2/domkino/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI2IDY6NTI6MDcgQU0maGFzaF92YWx1ZT11a3g2bXJiL1pkcGVaWEIwWDNacjVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png",Дом кино
-http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzg1Njg3MjUsImlhdCI6MTc3ODQ4MjMyNSwiY2lkIjo2LCJ1aWQiOjEwNDI2NDkwMjUsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.MCejoHxe8smW-bCJF45HDPXMc1wtCG6rj8Hs64OyJYM&offset=10
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png",Дом кино
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/154/index.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png",Дом кино
@@ -1397,8 +1389,6 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/5082/index.m3u8
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/911/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png",Дом кино Премиум
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/911/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png",Дом кино Премиум
-http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzg1Njg3MjUsImlhdCI6MTc3ODQ4MjMyNSwiY2lkIjo2LCJ1aWQiOjEwNDI2NDkwMjUsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.MCejoHxe8smW-bCJF45HDPXMc1wtCG6rj8Hs64OyJYM&offset=10
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png",Дом кино Премиум
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/5082/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png",Дом кино Премиум
@@ -1718,8 +1708,6 @@ http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/2441/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-logo="https://iptvx.one/picons/kamedi.png",Камеди
 http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/9091/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-logo="https://iptvx.one/picons/kamedi.png",Камеди
-http://ln.tabox.in:24651/iWPFhYwcSz/WaNC8k08Lp/21982
-#EXTINF:-1 tvg-id="kamedi" tvg-logo="https://iptvx.one/picons/kamedi.png",Камеди
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/35481
 #EXTINF:-1 tvg-id="kamedi" tvg-logo="https://iptvx.one/picons/kamedi.png",Камеди
 http://ru.team.ga:80/ch692/mono.m3u8?token=lalanew2.CtsrBoeDS9T6anwLNeY0g0Pb8vfkkIafAw1JIM9qgJnuT2t6Hj-FgfSJnyBy-ZZl
@@ -1867,8 +1855,6 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/9143/index.m3u8
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/20014/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png",Любимое кино
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/722/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png",Любимое кино
-http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzg1Njg3MjUsImlhdCI6MTc3ODQ4MjMyNSwiY2lkIjo2LCJ1aWQiOjEwNDI2NDkwMjUsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.MCejoHxe8smW-bCJF45HDPXMc1wtCG6rj8Hs64OyJYM&offset=10
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png",Любимое кино
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/20014/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png",Любимое кино
@@ -2151,10 +2137,6 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/9148/index.m3u8
 http://89.218.32.179:18000/play/a03n
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/726/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png",НСТ
-http://api.peers.tv/timeshift/nstv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzg1Njg3MjUsImlhdCI6MTc3ODQ4MjMyNSwiY2lkIjo2LCJ1aWQiOjEwNDI2NDkwMjUsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.MCejoHxe8smW-bCJF45HDPXMc1wtCG6rj8Hs64OyJYM&offset=10
-#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png",НСТ
-http://arbiter.bolshoe.tv/?path=streaming/nstv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI2IDY6NTI6MDcgQU0maGFzaF92YWx1ZT11a3g2bXJiL1pkcGVaWEIwWDNacjVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/726/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png",НСТ
@@ -2225,9 +2207,6 @@ http://vod.tuva.ru/nst/index.m3u8
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/726/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9148/index.m3u8
-#EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png",НСТ
-#EXTGRP:📽️ Фильмовые
-https://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png",НТВ
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/14035/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png",НТВ
@@ -2374,10 +2353,6 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6053/index.m3u8
 http://95.47.155.244:8001/play/a004
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="ntv",НТВ
 http://air.tvk6.ru/tvk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png",НТВ
-http://api.peers.tv/timeshift/tvk_6/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzg1Njg3MjUsImlhdCI6MTc3ODQ4MjMyNSwiY2lkIjo2LCJ1aWQiOjEwNDI2NDkwMjUsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.MCejoHxe8smW-bCJF45HDPXMc1wtCG6rj8Hs64OyJYM&offset=10
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png",НТВ
-http://arbiter.bolshoe.tv/?path=streaming/ntv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI2IDY6NTI6MDcgQU0maGFzaF92YWx1ZT11a3g2bXJiL1pkcGVaWEIwWDNacjVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png",НТВ
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/14035/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png",НТВ
@@ -3920,13 +3895,7 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/15464/index.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/204/index.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал
-http://95.181.17.26/dvr01/hd1/1kanal_hd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI2IDY6NTI6MDcgQU0maGFzaF92YWx1ZT11a3g2bXJiL1pkcGVaWEIwWDNacjVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал
 http://95.47.155.244:8001/play/a001
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал
-http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzg1Njg3MjUsImlhdCI6MTc3ODQ4MjMyNSwiY2lkIjo2LCJ1aWQiOjEwNDI2NDkwMjUsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.MCejoHxe8smW-bCJF45HDPXMc1wtCG6rj8Hs64OyJYM&offset=10
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал
-http://arbiter.bolshoe.tv/?path=streaming/1kanal/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI2IDY6NTI6MDcgQU0maGFzaF92YWx1ZT11a3g2bXJiL1pkcGVaWEIwWDNacjVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/127/index.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал
@@ -4175,10 +4144,6 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/7253/index.m3u8
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9201/index.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="pervy",Первый канал
-https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал
-https://api.itv.uz/hls/playlist/e80836c2f6db5b7c106dda7b784eccd6/1768575/135.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=6fMToEmZqCVtnlAxYf8H8w&e=2078482386&scheme=https
@@ -4245,11 +4210,7 @@ https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_1TV_ULAN/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="pervy",Первый канал
 https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="pervy",Первый канал
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRD/variant.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="pervy",Первый канал
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_1TV_SCH/variant.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="pervy",Первый канал
-https://rt-sth-mayk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRD/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="pervy",Первый канал
 https://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="pervy",Первый канал
@@ -4509,8 +4470,6 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/15287/index.m3u8
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/15385/index.m3u8
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://iptvx.one/picons/pervy-pl4.png",Первый канал +4
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6021/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="pervy-pl4" tvg-logo="https://iptvx.one/picons/pervy-pl4.png",Первый канал +4
-http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzg1Njg3MjUsImlhdCI6MTc3ODQ4MjMyNSwiY2lkIjo2LCJ1aWQiOjEwNDI2NDkwMjUsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.MCejoHxe8smW-bCJF45HDPXMc1wtCG6rj8Hs64OyJYM&offset=10
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://iptvx.one/picons/pervy-pl4.png",Первый канал +4
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/15287/index.m3u8
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://iptvx.one/picons/pervy-pl4.png",Первый канал +4
@@ -4932,10 +4891,6 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/15480/index.m3u8
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2024/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png",Рен ТВ
 http://95.47.155.244:8001/play/a011
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png",Рен ТВ
-http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzg1Njg3MjUsImlhdCI6MTc3ODQ4MjMyNSwiY2lkIjo2LCJ1aWQiOjEwNDI2NDkwMjUsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.MCejoHxe8smW-bCJF45HDPXMc1wtCG6rj8Hs64OyJYM&offset=10
-#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png",Рен ТВ
-http://arbiter.bolshoe.tv/?path=streaming/rentv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI2IDY6NTI6MDcgQU0maGFzaF92YWx1ZT11a3g2bXJiL1pkcGVaWEIwWDNacjVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png",Рен ТВ
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/128/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png",Рен ТВ
@@ -5612,8 +5567,6 @@ http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8?|User-Agent=http-user
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 tvg-id="rentv-md" tvg-logo="https://iptvx.one/picons/rentv-md.png",РенТВ Молдова
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45847
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rentv-md.png" tvg-id="rentv-md",РенТВ Молдова
-https://river-4-452.rtbcdn.ru/hls-vod/ly9sZwUUccRy6RK6V5RY0Q/1778944567/3308/0x5000c500e9d37d9c/1de0eaa62f294d15a84e057c4d3ab77d.mp4.m3u8?i=3840x2160_15962
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="rossia1",Россия 1
 http://109.207.243.18/2/index.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1
@@ -7403,8 +7356,6 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6013/index.m3u8
 http://91.210.192.13:1000/russia-24
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
 http://95.47.155.244:8001/play/a007
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
-http://api.peers.tv/timeshift/vesti/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzg1Njg3MjUsImlhdCI6MTc3ODQ4MjMyNSwiY2lkIjo2LCJ1aWQiOjEwNDI2NDkwMjUsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.MCejoHxe8smW-bCJF45HDPXMc1wtCG6rj8Hs64OyJYM&offset=10
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/15292/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
@@ -7511,8 +7462,6 @@ http://daea5c78.amazzin.pw/iptv/5EY234VVDYD6KNHM2DQAEAHK/6013/index.m3u8
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
-http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA24_6.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
 http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
@@ -8163,14 +8112,12 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia24-sd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns=",Россия-РТР
+#EXTINF:-1,Россия-РТР
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:-1 tvg-id="rtr-belarus" tvg-logo="https://iptvx.one/picons/rtr-belarus.png",РТР-Беларусь
 http://ru.team.ga:80/ch563/mono.m3u8?token=lalanew2.CtsrBoeDS9T6anwLNeY0g-k_y5-42Bup4eYxCilMzclw1Byh0gq4b7cTo2uvtPSu
 #EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png",РТР-Планета Азия
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48
-#EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png",РТР-Планета Азия
-https://player.smotrim.ru/iframe/stream/live_id/63251
 #EXTINF:-1 tvg-id="rtr-planeta-azia" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png",РТР-Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://iptvx.one/picons/rtr-planeta.png",РТР-Планета Европа
@@ -8205,8 +8152,6 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/2016/index.m3u8
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/9112/index.m3u8
 #EXTINF:-1 tvg-id="soyuz" tvg-logo="https://iptvx.one/picons/soyuz.png",Союз
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2016/index.m3u8
-#EXTINF:-1 tvg-id="soyuz" tvg-logo="https://iptvx.one/picons/soyuz.png",Союз
-http://95.181.17.18/dvr01/sd2/soyuz/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI2IDY6NTI6MDcgQU0maGFzaF92YWx1ZT11a3g2bXJiL1pkcGVaWEIwWDNacjVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="soyuz" tvg-logo="https://iptvx.one/picons/soyuz.png",Союз
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/2016/index.m3u8
 #EXTINF:-1 tvg-id="soyuz" tvg-logo="https://iptvx.one/picons/soyuz.png",Союз
@@ -8273,7 +8218,7 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/2016/index.m3u8
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9112/index.m3u8
 #EXTINF:-1 tvg-id="soyuz" tvg-logo="https://iptvx.one/picons/soyuz.png",Союз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-logo="data:image/svg+xml,<svg xmlns=",Союз-ТВ (Чусовой)
+#EXTINF:-1,Союз-ТВ (Чусовой)
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_SOYUZ_URAL_CHUS/variant.m3u8
 #EXTINF:-1 tvg-id="stb-ua" tvg-logo="https://iptvx.one/picons/stb-ua.png",СТБ
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/15122/index.m3u8
@@ -8473,8 +8418,6 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/506/index.m3u8
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6303/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png",СТС
 http://95.47.155.244:8001/play/a013
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png",СТС
-http://api.peers.tv/timeshift/sts/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzg1Njg3MjUsImlhdCI6MTc3ODQ4MjMyNSwiY2lkIjo2LCJ1aWQiOjEwNDI2NDkwMjUsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.MCejoHxe8smW-bCJF45HDPXMc1wtCG6rj8Hs64OyJYM&offset=10
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png",СТС
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/15330/index.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png",СТС
@@ -9404,8 +9347,6 @@ http://89.218.32.179:18000/play/a01m
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png",СТС Love
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/103/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png",СТС Love
-http://95.181.17.14/dvr02/mobile2/sts_love/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI2IDY6NTI6MDcgQU0maGFzaF92YWx1ZT11a3g2bXJiL1pkcGVaWEIwWDNacjVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png",СТС Love
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/103/index.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png",СТС Love
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/9099/index.m3u8
@@ -9658,11 +9599,7 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/502/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/7251/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
-http://95.181.17.26/dvr02/sd2/tnt/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI2IDY6NTI6MDcgQU0maGFzaF92YWx1ZT11a3g2bXJiL1pkcGVaWEIwWDNacjVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
 http://95.47.155.244:8001/play/a019
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
-http://api.peers.tv/timeshift/tnt/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzg1Njg3MjUsImlhdCI6MTc3ODQ4MjMyNSwiY2lkIjo2LCJ1aWQiOjEwNDI2NDkwMjUsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.MCejoHxe8smW-bCJF45HDPXMc1wtCG6rj8Hs64OyJYM&offset=10
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/10024/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
@@ -10592,8 +10529,6 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/710/index.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png",ТНТ-Music
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/9178/index.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png",ТНТ-Music
-http://79.120.77.11:8000/organ
-#EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png",ТНТ-Music
 http://89.218.32.179:18000/play/a01j
 #EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png",ТНТ-Music
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/15516/index.m3u8
@@ -10601,8 +10536,6 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/15516/index.m3u8
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19223/index.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png",ТНТ-Music
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/710/index.m3u8
-#EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png",ТНТ-Music
-http://arbiter.bolshoe.tv/?path=streaming/aone/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI2IDY6NTI6MDcgQU0maGFzaF92YWx1ZT11a3g2bXJiL1pkcGVaWEIwWDNacjVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png",ТНТ-Music
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/15516/index.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png",ТНТ-Music
@@ -10785,8 +10718,6 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/104/index.m3u8
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/15401/index.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png",ТНТ4
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6370/index.m3u8
-#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png",ТНТ4
-http://95.181.17.14/dvr02/mobile2/comedytv/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI2IDY6NTI6MDcgQU0maGFzaF92YWx1ZT11a3g2bXJiL1pkcGVaWEIwWDNacjVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png",ТНТ4
 http://bd46906a.edemist.com/iptv/862S4G3MF5A432/104/index.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png",ТНТ4
